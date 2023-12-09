@@ -12,7 +12,7 @@ function Contact() {
           <div className='logo-name'>   <span><FontAwesomeIcon className='ic' icon="fa-solid fa-envelope" /></span> Email</div>
         </div>
         
-<a className='type' href="mailto:kathiravanarjunan369@gmail.com" >kathiravanarjunan369@gmail.com</a>
+<a className='type' href="mailto:firstnamelastname369@gmail.com" >firstnamelastname369@gmail.com</a>
       </div>
   
       <div className='sub-add-container'>
@@ -20,7 +20,7 @@ function Contact() {
           <div className='logo-name'><span><FontAwesomeIcon className='ic' icon="fa-solid fa-phone" /> </span>Phone</div>
         </div>
         
-<div className='type'>9098043789</div>
+<div className='type'>9000000000</div>
       </div>
           <div className='sub-add-container'>
         <div className='logo-add'>

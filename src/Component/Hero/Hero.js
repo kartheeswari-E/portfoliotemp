@@ -6,7 +6,7 @@ function Hero() {
   <section id='home' className='hero-section-container'>
     <div className='hero-left'>  
       <div className='welcome'><span>Welcome</span></div>
-    <div className='name'>This is <span>Kathiravan</span> Arjunan</div>
+    <div className='name'>This is <span>firstname</span> lastname</div>
     <div className='sentance'>a group of words containing a subject and a verb, that expresses a statement, a question, etc. When a sentence is written it begins with a big (capital) letter and ends with a full stop.</div>
     <div className='link'>
     <i class="fa fa-github"></i>
